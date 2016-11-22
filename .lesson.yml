@@ -1,0 +1,9 @@
+---
+title: "The Future Is Meow"
+type: "exercise"
+description: "Set up Babel with Webpack and update ES5 code to ES6"
+tags: "javascript, es6, babel"
+ignore:
+- "node_modules/"
+- "the-future-is-meow.md"
+
